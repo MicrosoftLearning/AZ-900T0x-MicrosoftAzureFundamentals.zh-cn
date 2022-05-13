@@ -2,12 +2,12 @@
 wts:
   title: 01 - 在门户中创建虚拟机（10 分钟）
   module: Module 02 - Core Azure Services (Workloads)
-ms.openlocfilehash: 2e2a613f965d41405b025166876b28be391f10d8
-ms.sourcegitcommit: 26c283fffdd08057fdce65fa29de218fff21c7d0
+ms.openlocfilehash: 010d6a19a66f6ac92627720379a4eb850b2ee423
+ms.sourcegitcommit: 4a0bfef63f98844f16e2a364d156e96382b8fac5
 ms.translationtype: HT
 ms.contentlocale: zh-CN
-ms.lasthandoff: 01/27/2022
-ms.locfileid: "137907529"
+ms.lasthandoff: 05/04/2022
+ms.locfileid: "144556866"
 ---
 # <a name="01---create-a-virtual-machine-in-the-portal-10-min"></a>01 - 在门户中创建虚拟机（10 分钟）
 
@@ -18,7 +18,7 @@ ms.locfileid: "137907529"
 # <a name="task-1-create-the-virtual-machine"></a>任务 1：创建虚拟机 
 1. 登录到 Azure 门户： https://portal.azure.com
 
-3. 从门户菜单的“所有服务”边栏选项卡中，搜索并选择“虚拟机”，然后单击“+添加、+创建、+新建”并从下拉列表中选择“+虚拟机”   。
+3. 从门户菜单的“所有服务”边栏选项卡中，搜索并选择“虚拟机”，然后单击“+ 创建”并从下拉列表中选择“+ Azure 虚拟机”   。
 
 4. 在“基本”选项卡上，填写以下信息（其他所有设置保留默认值）：
 
